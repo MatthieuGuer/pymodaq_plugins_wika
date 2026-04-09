@@ -20,8 +20,7 @@ authors = [
     {name = "Matthieu Guer", email = "m.guer@hw.ac.uk"},
 ]
 maintainers = [
-    {name = "Name Surname", email = "myname@test.fr"},
-    #todo: list here all maintainers of your plugin
+    {name = "Matthieu Guer", email = "m.guer@hw.ac.uk"},
 ]
 
 # nottodo: leave everything below as is!
